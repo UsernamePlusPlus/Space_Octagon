@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/playground.dir/playground/playground.cpp.o -o playground  /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so -lglfw -lGLEW 
